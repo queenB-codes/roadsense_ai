@@ -1,0 +1,9 @@
+{
+  "name": "Copy of RoadSense AI",
+  "description": "Pothole detection system with mobile reporting and admin dashboard analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
