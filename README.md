@@ -16,8 +16,6 @@ Build tools: Node.js, npm, Capacitor CLI, Android Studio​
 Features
 Form to capture accident details (time, location, road type, weather, vehicle information, etc.).​
 
-Severity prediction screen with color‑coded risk level and short textual explanation.
-
 Basic history/log of previous predictions 
 
 Android APK generated with Capacitor and Android Studio for deployment on real devices.​
