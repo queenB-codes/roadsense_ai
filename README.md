@@ -21,3 +21,4 @@ Severity prediction screen with color‑coded risk level and short textual expla
 Basic history/log of previous predictions 
 
 Android APK generated with Capacitor and Android Studio for deployment on real devices.​
+“This project was initialized using Google’s AI Studio repository template. All app logic, UI, and integration with the accident severity model were designed and implemented by me as part of my B.Tech final year project.”
